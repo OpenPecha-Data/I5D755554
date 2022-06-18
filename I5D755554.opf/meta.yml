@@ -1,0 +1,36 @@
+id: I5D755554
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:07:08.481665'
+last_modified: '2022-06-19T01:07:08.481679'
+parser: null
+source_metadata:
+  title: Hagiography of Dwags po bKra shis rnam rgyal (1398/99–1458)
+  author: ཀརྨ་འཕྲིན་ལས་པ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-06-02);
+    converted from external file,revised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Sakya College, Dehradun (sc)
+  - Editorial process:ཚེ་རིང་གྲོང་ཤར། (td), Mathias Fermer (mf), Gabriele Coura (gc)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:ཚེ་རིང་གྲོང་ཤར། (td), Mathias Fermer (mf)
+  - Revisions/Corrections:ཚེ་རིང་གྲོང་ཤར། (td)
+  text_witnesses: https://sakyaresearch.org/sources/283
+  bases:
+    921c:
+      title: Hagiography of Dwags po bKra shis rnam rgyal (1398/99–1458)
+      order: 1
+      base_file: 921c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
